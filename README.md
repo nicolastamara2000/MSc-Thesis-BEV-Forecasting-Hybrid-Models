@@ -403,7 +403,7 @@ openpyxl (for reading .xlsx files)
 ### Running
 
 1. Place `BEV Registrations.xlsx` and `BEV Registrations Norway.xlsx` in the same directory as the notebook.
-2. Open `EDA copy - Copy.ipynb` in Jupyter Lab / VS Code.
+2. Open `BEV_Forecasting_Thesis.ipynb` in Jupyter Lab / VS Code.
 3. Run all cells sequentially. Neural model cells may take several minutes depending on hardware.
 4. For reproducibility, random seeds are set to 42 where applicable (`torch.manual_seed(42)`, `np.random.seed(42)`).
 
